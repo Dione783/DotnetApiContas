@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BA1Pm9LUAm8bIrrVhdj9XrDomzcEhDR3TKTfWM4Q/hI=",
+  "Source": "ApiDotnetEntityFramework",
+  "BasePath": "_content/ApiDotnetEntityFramework",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
